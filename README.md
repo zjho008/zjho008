@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ZiJun (username:@zjho008)
+- 👋 Hi, I’m ZiJun (@zjho008)
 - 👀 I’m interested in honing my ability to explore visual representation of business data
 - 🌱 I’m currently learning how to build and create effective data visualisations
 - 💞️ I’m looking to collaborate on visual analytic projects
